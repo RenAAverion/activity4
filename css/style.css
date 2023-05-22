@@ -1,4 +1,13 @@
 /* Global styles */
+html,fullscreen {
+  display:flex;
+  height:100%;
+  width:100%;
+  margin:0;
+  padding:0;
+  
+}
+
 body {
   background-image: url(images/bg.jpg);
   background-size: 100%;
